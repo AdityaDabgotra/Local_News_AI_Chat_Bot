@@ -140,14 +140,15 @@
 
 ## 🤝 Contributing 
 >
->    Contributions are welcome! Here’s how you can help:
->    •🚀 Suggest a new feature
->    •🐞 Report bugs or issues
->    •📄 Improve documentation
+>    Contributions are welcome! Here’s how you can help:<br>
+>    •🚀 Suggest a new feature <br>
+>    •🐞 Report bugs or issues <br>
+>    •📄 Improve documentation <br>
 
 <br>
-To contribute, fork the repo, create a feature branch, and open a pull request.
 
+### To contribute, fork the repo, create a feature branch, and open a pull request.
+<br>
 ## 📄 License
 >    This project is licensed under the MIT License.
 >    See the LICENSE file for more details.
