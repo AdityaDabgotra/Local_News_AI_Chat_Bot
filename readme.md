@@ -104,18 +104,22 @@
 ## 🧠 How It Works
     
 >🌍 Detect Location <br>
+>
 >    Uses your IP address via ipapi.com to identify your city.<br>
 
 >📰 Fetch News <br>
+>
 >    Uses Google News (via SerpAPI) to get the latest headlines for your city.<br>
 
 >🧠 AI Summarization<br>
+>
 >    Passes the news JSON to Google Gemini via LangChain to:<br>
 >        • Summarize<br>
 >        • Group by category<br>
 >        • Highlight important stories<br>
 
 ### 🎨 Colorized Output
+>
 >Displays a beautifully formatted and color-coded news bulletin in your terminal with:
 >    •Headings
 >    •Emojis
@@ -123,17 +127,19 @@
 >    •Rich markdown feel
 
 ## 🔁 Interactive Chat
-
+>
 >Ask follow-up questions about the news!
 >The AI will respond accordingly.
 
 ## 📌 Upcoming Features 
+>
 >    🔊 Text-to-Speech: Listen to the news as a podcast
 >    📤 Export to PDF/HTML for sharing
 >    ⏰ Daily Scheduled Summaries 
 >    🌐 Web Dashboard version 
 
 ## 🤝 Contributing 
+>
 >    Contributions are welcome! Here’s how you can help:
 >    •🚀 Suggest a new feature
 >    •🐞 Report bugs or issues
@@ -146,5 +152,6 @@ To contribute, fork the repo, create a feature branch, and open a pull request.
 >    This project is licensed under the MIT License.
 >    See the LICENSE file for more details.
 <br>
+
 <p align="center"> <img src="https://img.icons8.com/color/48/ai--v2.png" width="28"/> <i>Built with LangChain, Gemini, and a passion for local journalism 📰</i><br> <b>CityScope AI • © 2025</b> </p>
 
