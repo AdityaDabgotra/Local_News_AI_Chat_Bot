@@ -57,8 +57,8 @@
 ### 1. Clone this repo
 
 ```bash
-    git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-    cd YOUR_REPO_NAME
+    git clone https://github.com/AdityaDabgotra/Local_News_AI_Chat_Bot.git
+    cd Local_News_AI_Chat_Bot
 ```
 
 ### 2. Install dependencies
