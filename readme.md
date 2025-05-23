@@ -103,17 +103,18 @@
 ```
 
 ## 🧠 How It Works
-    🌍 Detect Location
-        Uses your IP address via ipapi.com to identify your city.
+    
+🌍 Detect Location
+    Uses your IP address via ipapi.com to identify your city.
 
-    📰 Fetch News
-        Uses Google News (via SerpAPI) to get the latest headlines for your city.
+📰 Fetch News
+    Uses Google News (via SerpAPI) to get the latest headlines for your city.
 
-    🧠 AI Summarization
-        Passes the news JSON to Google Gemini via LangChain to:
-            • Summarize
-            • Group by category
-            • Highlight important stories
+🧠 AI Summarization
+    Passes the news JSON to Google Gemini via LangChain to:
+        • Summarize
+        • Group by category
+        • Highlight important stories
 
 ### 🎨 Colorized Output
 Displays a beautifully formatted and color-coded news bulletin in your terminal with:
