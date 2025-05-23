@@ -103,18 +103,17 @@
 ```
 
 ## 🧠 How It Works
+    🌍 Detect Location
+        Uses your IP address via ipapi.com to identify your city.
 
-### 🌍 Detect Location
-Uses your IP address via ipapi.com to identify your city.
+    📰 Fetch News
+        Uses Google News (via SerpAPI) to get the latest headlines for your city.
 
-### 📰 Fetch News
-Uses Google News (via SerpAPI) to get the latest headlines for your city.
-
-### 🧠 AI Summarization
-Passes the news JSON to Google Gemini via LangChain to:
-    • Summarize
-    • Group by category
-    • Highlight important stories
+    🧠 AI Summarization
+        Passes the news JSON to Google Gemini via LangChain to:
+            • Summarize
+            • Group by category
+            • Highlight important stories
 
 ### 🎨 Colorized Output
 Displays a beautifully formatted and color-coded news bulletin in your terminal with:
@@ -139,11 +138,12 @@ The AI will respond accordingly.
     •🐞 Report bugs or issues
     •📄 Improve documentation
 
+<br>
 To contribute, fork the repo, create a feature branch, and open a pull request.
 
 ## 📄 License
-This project is licensed under the MIT License.
-See the LICENSE file for more details.
-
+    This project is licensed under the MIT License.
+    See the LICENSE file for more details.
+<br>
 <p align="center"> <img src="https://img.icons8.com/color/48/ai--v2.png" width="28"/> <i>Built with LangChain, Gemini, and a passion for local journalism 📰</i><br> <b>CityScope AI • © 2025</b> </p>
 
