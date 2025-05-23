@@ -120,11 +120,11 @@
 
 ### 🎨 Colorized Output
 >
->Displays a beautifully formatted and color-coded news bulletin in your terminal with:
->    •Headings
->    •Emojis
->    •Bullet points
->    •Rich markdown feel
+>Displays a beautifully formatted and color-coded news bulletin in your terminal with: <br>
+>    •Headings <br>
+>    •Emojis <br>
+>    •Bullet points <br>
+>    •Rich markdown feel <br>
 
 ## 🔁 Interactive Chat
 >
@@ -133,10 +133,10 @@
 
 ## 📌 Upcoming Features 
 >
->    🔊 Text-to-Speech: Listen to the news as a podcast
->    📤 Export to PDF/HTML for sharing
->    ⏰ Daily Scheduled Summaries 
->    🌐 Web Dashboard version 
+>    🔊 Text-to-Speech: Listen to the news as a podcast <br>
+>    📤 Export to PDF/HTML for sharing <br>
+>    ⏰ Daily Scheduled Summaries <br>
+>    🌐 Web Dashboard version <br>
 
 ## 🤝 Contributing 
 >
