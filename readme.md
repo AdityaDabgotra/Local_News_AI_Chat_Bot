@@ -36,7 +36,7 @@
 > 📽️ Coming Soon: [Watch on YouTube](#)  
 > Here's a quick preview of the terminal output:
 
-<img src="https://i.imgur.com/bdTwJq2.png" alt="Demo Output" width="800"/>
+<img src="Image.png" alt="Demo Output" width="800"/>
 
 ---
 
@@ -104,17 +104,17 @@
 
 ## 🧠 How It Works
     
-🌍 Detect Location
-    Uses your IP address via ipapi.com to identify your city.
+🌍 Detect Location <br>
+    Uses your IP address via ipapi.com to identify your city.<br>
 
-📰 Fetch News
-    Uses Google News (via SerpAPI) to get the latest headlines for your city.
+📰 Fetch News <br>
+    Uses Google News (via SerpAPI) to get the latest headlines for your city.<br>
 
-🧠 AI Summarization
-    Passes the news JSON to Google Gemini via LangChain to:
-        • Summarize
-        • Group by category
-        • Highlight important stories
+🧠 AI Summarization<br>
+    Passes the news JSON to Google Gemini via LangChain to:<br>
+        • Summarize<br>
+        • Group by category<br>
+        • Highlight important stories<br>
 
 ### 🎨 Colorized Output
 Displays a beautifully formatted and color-coded news bulletin in your terminal with:
