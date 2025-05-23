@@ -127,18 +127,17 @@ Displays a beautifully formatted and color-coded news bulletin in your terminal 
 Ask follow-up questions about the news!
 The AI will respond accordingly.
 
-## 📌 Upcoming Features
-
-### 🔊 Text-to-Speech: Listen to the news as a podcast
-### 📤 Export to PDF/HTML for sharing
-### ⏰ Daily Scheduled Summaries
-### 🌐 Web Dashboard version
+## 📌 Upcoming Features<br>
+    🔊 Text-to-Speech: Listen to the news as a podcast <br>
+    📤 Export to PDF/HTML for sharing <br>
+    ⏰ Daily Scheduled Summaries <br>
+    🌐 Web Dashboard version <br>
 
 ## 🤝 Contributing
-Contributions are welcome! Here’s how you can help:
-    •🚀 Suggest a new feature
-    •🐞 Report bugs or issues
-    •📄 Improve documentation
+Contributions are welcome! Here’s how you can help:<br>
+    •🚀 Suggest a new feature<br>
+    •🐞 Report bugs or issues<br>
+    •📄 Improve documentation<br>
 
 To contribute, fork the repo, create a feature branch, and open a pull request.
 
