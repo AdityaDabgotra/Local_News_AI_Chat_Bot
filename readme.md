@@ -149,9 +149,11 @@
 
 ### To contribute, fork the repo, create a feature branch, and open a pull request.
 <br>
+
 ## 📄 License
->    This project is licensed under the MIT License.
->    See the LICENSE file for more details.
+>    This project is licensed under the MIT License. <br>
+>    See the LICENSE file for more details. <br>
+
 <br>
 
 <p align="center"> <img src="https://img.icons8.com/color/48/ai--v2.png" width="28"/> <i>Built with LangChain, Gemini, and a passion for local journalism 📰</i><br> <b>CityScope AI • © 2025</b> </p>
