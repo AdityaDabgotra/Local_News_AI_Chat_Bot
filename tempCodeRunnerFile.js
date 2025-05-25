@@ -1,1 +1,0 @@
-    // const colorized = colorizeMarkdown(response.content);
